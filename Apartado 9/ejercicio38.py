@@ -9,7 +9,7 @@ while x<=num:
     else:
         impares = impares + 1
     x=x+1
-    print("Cantidad de pares")
-    print(pares)
-    print("Cantidad de impares")
-    print(impares)
+print("Cantidad de pares")
+print(pares)
+print("Cantidad de impares")
+print(impares)
